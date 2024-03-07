@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srgala
 - 👀 I’m interested in learning new things and exploring the world!
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Data Science & AI/ML
 - 💞️ I’m looking to collaborate on Data Science & Machine Learning Projects
 - 📫 How to reach me www.linkedin.com/in/srgala
 - 😄 Pronouns: She/Her
