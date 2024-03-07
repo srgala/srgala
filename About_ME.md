@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srgala
+- 👋 Hi, I’m Shradha
 - 👀 I’m interested in learning new things and exploring the world!
 - 🌱 I’m currently learning Data Science & AI/ML
 - 💞️ I’m looking to collaborate on Data Science & Machine Learning Projects
